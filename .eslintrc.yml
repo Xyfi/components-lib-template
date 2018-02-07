@@ -1,0 +1,7 @@
+extends: ["yoast"]
+
+rules:
+  complexity: [1, 6]
+
+env:
+  jest: true
